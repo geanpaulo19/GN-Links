@@ -549,7 +549,8 @@ svg {
   text-wrap: balance;
 }
 
-.intro__role .amp {
+.intro__role .amp,
+.intro__role .role__divider {
   color: var(--gold);
 }
 
